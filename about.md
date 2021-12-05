@@ -8,7 +8,7 @@ This is the man page of the blog and author.
 
 ### About Blog
 
-This blog is a technical blog and I'll post some subjects basically about what I involving at work and/or my skills, favorites, etc. As I said in <a href="{{ site.url }}/2021/12/05/hello-world.html" >Hello World Post</a> I'm not a talkactive so I don't express so much in my posts. All opinions in this blog's posts are personnal and religious, political, social, philosophical ideas have no place in this blog as long as they are not related to technical issues.
+This blog is a technical blog and I'll post some subjects basically about what I involving at work and/or my skills, favorites, etc. As I said in <a href="{{ site.url }}/2021/12/04/hello-world.html" >Hello World Post</a> I'm not a talkactive so I don't express so much in my posts. All opinions in this blog's posts are personnal and religious, political, social, philosophical ideas have no place in this blog as long as they are not related to technical issues.
 
 ### About Author
 
