@@ -8,11 +8,11 @@ This is the man page of the blog and author.
 
 ### About Blog
 
-This blog is a technical blog and I'll post some subjects basically about what I involving at work and/or my skills, favorites, etc. As I said in [hello world post](https://mostafaabdi70.github.io/2021/12/04/hello-world.html) I'm not a talkactive so I don't express so much in my posts. All opinions in this blog's posts are personnal and religious, political, social, philosophical ideas have no place in this blog as long as they are not related to technical issues.
+This blog is a technical blog and I'll post some subjects basically about what I involving at work and/or my skills, favorites, etc. As I said in <a href="{{ site.url }}/2021/12/05/hello-world.html" >Hello World Post</a> I'm not a talkactive so I don't express so much in my posts. All opinions in this blog's posts are personnal and religious, political, social, philosophical ideas have no place in this blog as long as they are not related to technical issues.
 
 ### About Author
 
-I'm Mostafa Abdi. I live in Tehran/Iran. A back-end developer (Not a Devops) which loves technology. In my opinion, I'm just a enthusiastic about technology and software development, not more. I've started programming with `VB6.0` on `Windows XP` since September 2008, But now, I'm a Gnu/Linux lover. In college I experienced variety programming languages, platforms, frameworks and libraries. I started working with Python since 2012 fall. In last two years I worked with Odoo framework. I've good experience with 8, 12 ,14 versions of Odoo. You can see what I worked with, what I familiar with, what is my skills, what I love:
+I'm Mostafa Abdi. I live in Tehran/Iran. A back-end developer (Not a Devops) which loves technology. In my opinion, I'm just a enthusiastic about technology and software development, not more. I've started programming with `VB6.0` on `Windows XP` since September 2008, But now, I'm a Gnu/Linux lover. In college I experienced variety programming languages, platforms, frameworks and libraries. I started working with Python since fall 2012. In last two years I worked with Odoo framework. I've good experience with 8, 12 ,14 versions of Odoo. You can see what I worked with, what I familiar with, what is my skills, what I love:
 
 What Programming languages, framworks and libraries I worked with:
 <ul>
@@ -62,4 +62,4 @@ My favorites:
 
 ## Projects
 
-My last projects and future Projects will comes in [Projects Page](https://mostafaabdi70.github.io/projects/)
+My last projects and future Projects will comes in <a href="{{ site.url }}/projects" >Projects Page</a>
