@@ -5,6 +5,7 @@ date: 2021-12-05T02:29:31+03:30
 ---
 
 Hi folk,
+
 After years disconnecting from the blogging world, last night I decided write again and run my new blog -not in `wordpress` but in `octopress`- so thanks to `octopress` I ran the blog in a few minutes!
 
 This is my first blog after about three years which I had a wordpress blog and was discontinued. 
