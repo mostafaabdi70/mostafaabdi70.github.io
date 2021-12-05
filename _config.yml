@@ -18,8 +18,8 @@ email: mostafa.programming@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Mostafa Abdi blog. My daily notes around Programming, Software development and Personnal
   ideas about anything.
-baseurl: /blog # the subpath of your site, e.g. /blog
-url: mostafaabdi70.github.io # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: / # the subpath of your site, e.g. /blog
+url: https://mostafaabdi70.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: thatsmostafa
 github_username:  mostafaabdi70
 
