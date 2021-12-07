@@ -26,9 +26,11 @@
             
      {{ content }}
      <p>
-        Tagged 
+        {% if tag in page.tags %}
+            Tagged 
+        {% endif %}
         {% for tag in page.tags %}
-        <a class="post" href="{{ site.url }}/tag/{{tag}}">#{{tag}}</a>{% unless forloop.last %}, {% endunless %}
+        <a class="post" href="{{ site.url }}/tag/{{ tag }}">#{{tag}}</a>{% unless forloop.last %}, {% endunless %}
         {% endfor %}
       </p>
      </div>
