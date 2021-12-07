@@ -1,0 +1,17 @@
+
+<!doctype html>
+<html>
+  <head>
+    <title>Tag: #{{page.tag}}</title>
+  </head>
+  <body>
+    <h1>Tag: #{{page.tag}}</h1>
+    
+      {% for post in site.posts %}
+      {% if post.tags contains page.tag %}
+      <a class="post" href="{{ post.url }}">{{ post.title }}</a>
+      {% endif %}
+      {% endfor %}
+    
+  </body>
+</html>
